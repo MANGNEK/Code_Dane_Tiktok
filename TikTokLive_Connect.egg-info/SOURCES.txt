@@ -1,0 +1,6 @@
+setup.py
+TikTokLive_Connect.egg-info/PKG-INFO
+TikTokLive_Connect.egg-info/SOURCES.txt
+TikTokLive_Connect.egg-info/dependency_links.txt
+TikTokLive_Connect.egg-info/requires.txt
+TikTokLive_Connect.egg-info/top_level.txt

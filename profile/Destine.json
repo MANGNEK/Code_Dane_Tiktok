@@ -1,0 +1,100 @@
+{
+    "background_music": "D:\\01. NHAC\\03. NHAC NEN\\nhac nen 2.mp3",
+    "cross_sound": "",
+    "gift_config": [
+      {
+        "id": 7412,
+        "name": "candy",
+        "gift_name": "Ice cream",
+        "thumbnail": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/a40b91f7a11d4cbce780989e2d20a1f4~tplv-obj.webp",
+        "price": 5,
+        "types": [],
+        "sounds": [
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Candy 1.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Candy 2.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Candy 3.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Candy 4.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Candy 5.mp3"
+        ]
+      },
+      {
+        "id": 10961,
+        "name": "Cherry",
+        "gift_name": "Peach",
+        "thumbnail": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/ff861a220649506452e3dc35c58266ea.png~tplv-obj.webp",
+        "price": 5,
+        "types": [],
+        "sounds": [
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Cherry 1.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Cherry 2.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Cherry 3.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Cherry 4.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Cherry 5.mp3"
+        ]
+      },
+      {
+        "id": 5487,
+        "name": "Lena",
+        "gift_name": "Finger Heart",
+        "thumbnail": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/a4c4dc437fd3a6632aba149769491f49.png~tplv-obj.webp",
+        "price": 5,
+        "types": [],
+        "sounds": [
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Lena 1.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Lena 2.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Lena 3.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Lena 4.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Lena 5.mp3"
+        ]
+      },
+      {
+        "id": 5658,
+        "name": "Tăng tốc",
+        "gift_name": "Perfume",
+        "thumbnail": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/20b8f61246c7b6032777bb81bf4ee055~tplv-obj.webp",
+        "price": 20,
+        "types": [
+          "FAST"
+        ],
+        "sounds": []
+      },
+      {
+        "id": 5879,
+        "name": "Giảm tốc",
+        "gift_name": "Doughnut",
+        "thumbnail": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/4e7ad6bdf0a1d860c538f38026d4e812~tplv-obj.webp",
+        "price": 30,
+        "types": [
+          "SLOW"
+        ],
+        "sounds": []
+      },
+      {
+        "id": 9984,
+        "name": "Giải cứu combo",
+        "gift_name": "Lucky Cat",
+        "thumbnail": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/e56c5e099899f56b0636c95021e675b5.png~tplv-obj.webp",
+        "price": 399,
+        "types": [
+          "RESCUE"
+        ],
+        "sounds": []
+      },
+      {
+        "id": 8635,
+        "name": "Jolie",
+        "gift_name": "Okay",
+        "thumbnail": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/resource/0573114db41d2cf9c7dd70c8b0fab38e.png~tplv-obj.webp",
+        "price": 5,
+        "types": [],
+        "sounds": [
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Jolie 1.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Jolie 2.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Jolie 3.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Jolie 4.mp3",
+          "D:\\01. NHAC\\02. NHOM CHIEU\\01. Destine.vn\\Jolie 5.mp3"
+        ]
+      }
+    ],
+    "cross_music": "D:\\01. NHAC\\03. NHAC NEN\\chuong cua.mp3"
+  }
